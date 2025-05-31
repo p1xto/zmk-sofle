@@ -63,7 +63,7 @@ layers:
   - '2'
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-shift$$
-  - LANGUAGE 2
+  - LANG2
   - $$mdi:backspace-reverse-outline$$
   layer1:
   - {t: '`', s: '~'}
