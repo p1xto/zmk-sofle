@@ -263,3 +263,5 @@ layers:
 combos:
 - p: [14, 30]
   k: '~'
+- p: [26, 30]
+  k: LANG1

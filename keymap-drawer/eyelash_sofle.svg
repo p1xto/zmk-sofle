@@ -641,6 +641,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="154" y="117" width="28" height="26" class="combo"/>
 <text x="168" y="130" class="combo tap">~</text>
 </g>
+<g class="combo combopos-1">
+<path d="M140,158 l-93,9" class="combo"/>
+<path d="M140,158 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="126" y="145" width="28" height="26" class="combo"/>
+<text x="140" y="158" class="combo tap">LANG1</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-layer1">
@@ -991,6 +997,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="154" y="117" width="28" height="26" class="combo"/>
 <text x="168" y="130" class="combo tap">~</text>
 </g>
+<g class="combo combopos-1">
+<path d="M140,158 l-93,9" class="combo"/>
+<path d="M140,158 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="126" y="145" width="28" height="26" class="combo"/>
+<text x="140" y="158" class="combo tap">LANG1</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-2">
@@ -1338,6 +1350,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="154" y="117" width="28" height="26" class="combo"/>
 <text x="168" y="130" class="combo tap">~</text>
 </g>
+<g class="combo combopos-1">
+<path d="M140,158 l-93,9" class="combo"/>
+<path d="M140,158 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="126" y="145" width="28" height="26" class="combo"/>
+<text x="140" y="158" class="combo tap">LANG1</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1165)" class="layer-3">
@@ -1668,6 +1686,12 @@ rect.held, rect.combo.held {
 <path d="M168,130 l66,14" class="combo"/>
 <rect rx="6" ry="6" x="154" y="117" width="28" height="26" class="combo"/>
 <text x="168" y="130" class="combo tap">~</text>
+</g>
+<g class="combo combopos-1">
+<path d="M140,158 l-93,9" class="combo"/>
+<path d="M140,158 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="126" y="145" width="28" height="26" class="combo"/>
+<text x="140" y="158" class="combo tap">LANG1</text>
 </g>
 </g>
 </g>
