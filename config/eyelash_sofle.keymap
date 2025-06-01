@@ -45,6 +45,11 @@
             bindings = <&kp TILDE>;
             key-positions = <14 30>;
         };
+
+        lang {
+            bindings = <&kp LANG1>;
+            key-positions = <26 30>;
+        };
     };
 
     keymap {
